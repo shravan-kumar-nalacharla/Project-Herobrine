@@ -47,16 +47,16 @@ This is a reproducible addressing failure, not destiny choosing a dramatically c
 
 ### Aren's Temporal Ladder
 
-Aren's personal journey does not follow the four essential dates above. His anger-activated power snaps him forward along a fixed resonance ladder derived from the same 43-phase frequency baked into the Gate itself. Each node is exactly **43 years** forward from the last:
+Aren's personal journey does not follow the four essential dates above. His anger-activated power snaps him forward along a fixed resonance ladder derived from the same 43-phase frequency baked into the Gate itself. Each node is exactly **43 years** forward from the last. The ladder counts forward from Aren's own **departure year**, not from his arrival year of -1849 — the imprint locks onto wherever in the Ancient Age his rage first fires, and every subsequent jump steps exactly 43 years from there. His Ancient-Age life from infancy to first jump fits within approximately one such span (~43 years), after which the ladder's nodes align with the absolute years listed below:
 
 | World Year | Aren's personal event |
 |---:|---|
 | **-1849** | Arrives with Alex as an infant |
-| **Ancient era** | Raised by Alex; inherits her archives after her death; marries in the Ancient Age (first family) |
-| **-215** | First anger-powered jump (43 × 5). Stranded; settles again; marries and has a son (second family). |
+| **Ancient era (~-1849 to ~-258)** | Raised by Alex; inherits her archives after her death; marries in the Ancient Age (first family). His entire un-jumped Ancient-Age adulthood — grief, experiments, marriage, child — is compressed to roughly 43 years, ending at his departure point of approximately **-258**, which is one node before -215. |
+| **-215** | First anger-powered jump (one node forward from ~-258). Stranded; settles again; marries and has a son (second family). |
 | **-172** | Second jump. Returns to find his son has aged 43 years. Devastating confrontation. Learns he is a grandfather. |
 | **-129** | Third jump. Son dying or dead. Aren psychologically crumbling; begins the Wandering Cartographer years. |
-| **-86** | Arrested. Recorded as **Prisoner 43**. His own grandson—not knowing who he is—visits the cell and copies his equations, founding the scientist bloodline. |
+| **-86** | Arrested. Recorded as **Prisoner 43**. His grandson—not knowing who he is—visits the cell and copies his equations, founding the scientist bloodline. |
 | **-43** | Fourth jump. World now recognizably close to the civilization Alex described. |
 | **0** | Fifth jump or natural forward movement. Arrives in Sunfall's ash-covered ruin. Complete mental collapse. |
 
@@ -379,7 +379,7 @@ Aren tries immediately to reopen the portal. Nothing. His anger has burned out. 
 
 For once in his life, the obsession has nowhere to run. The world is closer to what Alex described — recognizable civilization, redstone systems, functional portal routes — yet still completely foreign to him. Slowly, painfully, Aren accepts it. *This is where I live now.*
 
-For perhaps a decade, Aren stops chasing the past. He settles in a small city. Finds work as a cartographer and engineer. Meets someone. Falls in love. Marries. And eventually, Aren has a son — his first biological child, in the first family that is entirely his own. For once, somebody calls him father instead of asking where he comes from.
+For perhaps a decade, Aren stops chasing the past. He settles in a small city. Finds work as a cartographer and engineer. Meets someone. Falls in love. Marries. And eventually, Aren has a son — a second child, his first since the Ancient Age, and the first born into a world that does not think of him as a ghost from an impossible past. For once, somebody calls him father instead of asking where he comes from.
 
 He tells his son stories about Alex — about *Grandmother Alex* and another world, about strange portals and impossible numbers. But he does not tell him everything. The stories sound almost mythical even to Aren himself.
 
