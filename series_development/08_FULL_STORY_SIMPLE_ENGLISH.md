@@ -191,7 +191,9 @@ All nine future travellers are already alive in Year 0, but they are very young 
 
 They remember only small pieces of Sunfall: a white sky, burning rain, frightened adults, shelter doors closing and a wall rising far away. They are too young to understand what happened or recognize the Black Traveller.
 
-They grow up in separate surviving civilizations. Forty-three years later, old instruments briefly detect a safe opening into the Far Lands. The nine are chosen for the first joint expedition because each has a different skill.
+They grow up in separate surviving civilizations. Years later, a future scientific project uses surviving ancient records to build a giant **time-portal machine** *(meaning: a massive engineered structure designed to open paths across time)*. The nine are present at the research laboratory as technical specialists, defensive engineers and safety responders.
+
+They do not choose to go on a casual trip through time. During a high-power experiment, the machine cannot contain its enormous energy. A catastrophic explosion—ten times larger than a normal blast—begins tearing the laboratory apart. The unstable portal creates a violent **pulling force** *(meaning: a powerful suction like a vacuum)* that drags the nine into the portal immediately before the building explodes.
 
 ---
 
@@ -211,7 +213,7 @@ Steve returns to Paradise -43.
 
 He is not trapped behind a broken portal. He is trapped in the wrong year. Every new ordinary portal takes him between Paradise -43 and Overworld -43. The next year it connects -42 to -42. None of them can jump forward to Year 0.
 
-Moments later, another charged Gate opens at the ancient receiver. Nine people emerge from Overworld +43:
+Moments later, the violent portal from the future laboratory failure dumps the nine into the water beneath the great arch of Paradise Year -43:
 
 - Techno Gamerz
 - Total Gaming / Ajju Bhai
@@ -522,15 +524,51 @@ Alex also builds the Continuance Bastions to protect life during the future disa
 
 Her attempts to avoid the future help create it.
 
-Aren grows up and becomes the **First Cartographer** *(meaning: the first person able to map a destination using place, dimension and time together)*. Alex tells him about the nine people she knows must someday arrive in Paradise. Aren places their route and the number 43 in his atlas.
+Alex raises baby Aren with deep love and care. However, Alex is not his biological mother, and she does not know who his real parents were. As Aren grows up, he carries one painful question in his heart:
 
-In Overworld +43, those same nine later find his atlas and use it to make their journey. The information has travelled around a circle.
+> *"Who were my real parents?"*
 
-Alex lives for 63 years after arriving in the past. She raises Aren, teaches people, loses friends and becomes known as the Carrier. She leaves messages inside ancient structures because she knows Steve may discover them many centuries later.
+Alex spends decades trying to build a portal that can take them home. She keeps detailed written notebooks containing drawings, calculations, coordinate numbers, notes about 43, and records of every failed experiment. Young Aren watches her work and tries to enter the machine, but Alex always protects him because time portals are dangerous. 
 
-Her final message tells Steve not to erase her long life simply because he remembers only the five minutes in which they were separated.
+Alex tries for many years, but she never solves the problem of returning. Eventually, Alex dies of old age in the Ancient Age.
 
-Alex dies naturally in the Ancient Age. She is not secretly frozen, cloned or waiting inside another universe.
+Aren is left completely broken-hearted. He has lost the only mother figure he knew. He inherits Alex's notebooks and becomes obsessed with finishing her machine. For years, Aren builds and tests portals. Every test fails. The repeated failures fill him with grief, loneliness, and frustration.
+
+### How Aren's power works
+
+Passing through unusual time portals leaves a dormant energy inside people. Aren absorbed this energy as a baby during Sunfall. For most of his life, it sleeps inside him.
+
+Aren's power is unlocked by **extreme anger**.
+
+One day, another portal experiment fails. Aren cannot hold his pain any longer. Years of frustration explode into pure rage. Without realizing it, his anger activates the sleeping temporal power inside his body.
+
+Overwhelmed with emotion, Aren runs straight at the dead, dark portal with his eyes closed. In less than a second, his anger causes the portal to violently flash alive at the exact instant he touches it. Aren passes through, and the portal collapses behind him.
+
+### Aren reaches destroyed Year 0
+
+Aren opens his eyes expecting to find his family. Instead, he finds:
+
+- fields of gray ash;
+- completely destroyed land;
+- the giant, frightening stone cliffs of the newly made Far Lands.
+
+Aren realizes this is the world Alex came from. He has reached home, but home is gone. Finding only devastation, Aren believes:
+
+> *"My real family died here."*
+
+This breaks Aren's mind. He leaves the Far Lands and wanders alone across the Overworld for decades. He wears travel robes and carries Alex's notebooks, maps, and compasses. This is how the legend of the Wandering Cartographer begins.
+
+As Aren's mental health worsens, he repeats strange words over and over. He constantly chants the number **43**, along with broken pieces of portal instructions and coordinate formulas. People think he is crazy, but his broken words are real science.
+
+Later, Aren gets into a fight and authorities put him in prison. Guards and scribes write down his strange chants and keep Alex's old notebooks. 
+
+Centuries later, an Aren-family descendant scientist reads these ancient records. He realizes Aren was not crazy—he was describing real physics. That scientist uses Aren's clues and the number 43 to design the giant future machine that eventually malfunctions and pulls the nine travellers into Paradise.
+
+Before her death, Alex left messages for Steve inside the stone structures of Paradise. Her final journal says:
+
+> "You will want to come back for me. For a long time, I wanted you to. Then I understood something. You remember the five minutes in which you lost me. I remember the sixty-three years I lived afterward. Do not erase my life because you cannot forgive yourself for missing five minutes of it."
+
+Alex dies peacefully in the Ancient Age. Her life is not reset when the Knot closes.
 
 ---
 

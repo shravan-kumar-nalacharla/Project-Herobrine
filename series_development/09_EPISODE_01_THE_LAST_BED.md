@@ -14,38 +14,38 @@
 ## 1. Episode Overview & Logline
 
 ### Logline
-As the ash-choked ruins of Haven Scar collapse under tectonic fallout, Techno Gamerz leads eight fellow survivors through an uncalibrated time-gate into a lush, sunlit valley called Paradise—only to find that securing safety among its defenders requires confronting the devastating price of who they left behind.
+When a catastrophic containment breach in a future research facility triggers an imminent colossal explosion, Techno Gamerz and eight technical specialists are violently pulled through an unstable temporal vortex into an untouched, sunlit valley called Paradise—where their first chance at safety depends on confronting the devastating price of who they left behind in the blast.
 
 ### Central Dramatic Question
-Can an exhausted expedition earn a future in an unblemished world without bringing their ruin with them?
+Can an accidentally displaced team survive in an unblemished ancient world without bringing their future catastrophe with them?
 
 ### Emotional Theme
-**Survival guilt disguised as leadership.** True responsibility is not simply deciding who crosses the threshold; it is carrying the moral weight of those stranded in the dark.
+**Survival guilt disguised as leadership.** True responsibility is not simply deciding who crosses the threshold; it is carrying the moral weight of those sealed on the other side.
 
 ---
 
 ## 2. Character State & Arc Tracker (Episode 1)
 
-| Character | Starting State (Haven Ruin) | Episode 1 Choice | Ending State (Paradise Night) |
+| Character | Starting State (Future Research Facility) | Episode 1 Choice | Ending State (Paradise Night) |
 |---|---|---|---|
-| **Techno Gamerz** | Driven, hyper-focused route-maker carrying the weight of Haven's evacuation. | Cuts the rear minecart coupling to ensure the forward carts reach the Gate before collapse. | Physically safe, but silently tormented by the knowledge that survivors were still running toward the train. |
-| **Ajju Bhai** | Protective field leader; refuses to leave a single person uncounted. | Gives away his iron chestplate to shield a survivor and stays at the rear cart to pull people in. | Discovers Techno severed the coupling prematurely; their brotherhood fractures into quiet distrust. |
-| **Steve** | Relaxed, confident guardian of Paradise; solves structural issues with effortless humor. | Surrenders his own personal spawn bed to an exhausted refugee and takes night watch. | Masks his fear of vulnerability behind jokes, but leaves his telltale inverted-stair construction signature. |
-| **Alex** | Systemic engineer; measures safety by the wellbeing of the most fragile resident. | De-escalates an armed standoff between Iron Golems and the refugees by assigning immediate repair work. | Recognizes the newcomers carry structural trauma and quietly studies their damaged tools. |
-| **YesSmartyPie** | Analytical cartographer; emotionally guarded, notices physical discrepancies instantly. | Refuses to accept Paradise as a magical dream; begins systematic solar and geographic angle surveys. | Discovers Haven’s ruined atlas matches Paradise’s coastline and building markers block-for-block. |
-| **RawKnee** | Impulsive scavenger and comic release; hides panic behind irreverent mischief. | Steals an ancient carved crown block fragment from the gate apparatus to use as rail ballast. | In possession of a pivotal time-anchor regulator without realizing its cosmic significance. |
-| **I.M. Bixu** | Forensic documentarian; trusts physical evidence and architectural wear over spoken words. | Records block damage, rail degradation, and gate ignition timings while fleeing. | Discovers anomalous black particles rising *upward* against gravity from Steve's fresh masonry repair. |
-| **AndreoBee** | Quiet ecologist and apiarist; preserves living biological specimens amidst mechanical ruin. | Risking his life to secure Haven’s last surviving bee nest during the fiery evacuation. | Breaks down in tears upon hearing ordinary wild bees and feeling untainted rain in Paradise. |
-| **GamerFleet** | Group morale anchor; defuses escalating panic through warmth and improvisation. | Calms panicked pack animals and herds stragglers during the minecart loading. | Smoothly deflects probing questions from Paradise villagers during the communal dinner to shield his friends. |
-| **Chapati** | Practical barterer; calculates resource flows, fair trades, and supply chains under crisis. | Negotiates food rations and equipment distribution during the chaotic loading. | Assesses Paradise's trading hall economy, realizing the newcomers are a severe resource drain. |
-| **Khatarnak Ishan** | Hardline defensive tactician; believes in sealed perimeters and fortified choke points. | Seals perimeter bulkhead doors behind the carts to prevent shockwaves from shattering the rails. | Remains hyper-vigilant in Paradise, inspecting walls and suspecting Paradise's open borders are fatal flaws. |
+| **Techno Gamerz** | Emergency response engineer / team lead; hyper-focused on catastrophic containment. | Slams the master lockdown switch to seal the reactor blast doors, protecting outer sectors while sealing colleagues inside. | Physically safe, but silently tormented by the knowledge that trapped workers were screaming on the other side of the glass. |
+| **Ajju Bhai** | Facility safety director; refuses to leave a single person uncounted. | Sprints across the vibrating gantry to distribute emergency oxygen/shield kits and pull trapped workers toward safety. | Discovers Techno triggered the irreversible lockdown prematurely; their bond fractures into quiet distrust. |
+| **Steve** | Relaxed, confident guardian of Paradise; solves structural issues with effortless humor. | Surrenders his own personal spawn bed to an exhausted newcomer and takes night watch on the bell tower. | Masks his fear of vulnerability behind jokes, but leaves his telltale inverted-stair construction signature. |
+| **Alex** | Systemic engineer; measures safety by the wellbeing of the most fragile resident. | De-escalates an armed standoff between Iron Golems and the newcomers by assigning immediate repair work. | Recognizes the newcomers carry severe shock and quietly studies their bizarre, charred equipment. |
+| **YesSmartyPie** | Data analyst & cartographer; emotionally guarded, spots anomalies instantly. | Reads the collapsing reactor core telemetry, identifying an uncontrollable 43-phase distortion before anyone else. | Discovers the facility's ancient reference atlas matches Paradise’s coastline and building markers block-for-block. |
+| **RawKnee** | Impulsive technician and comic relief; hides terror behind irreverent banter. | Grabs an ancient carved stone crown regulator block from an archival pedestal to brace a jammed hydraulic blast door. | In possession of a pivotal Anchor regulator without realizing its cosmic significance. |
+| **I.M. Bixu** | Forensic investigator; trusts hard telemetry and physical evidence over human speech. | Downloads core telemetry logs and records radiation flare patterns as consoles incinerate. | Discovers anomalous black particles rising *upward* against gravity from Steve's fresh masonry repair. |
+| **AndreoBee** | Bio-containment specialist; preserves delicate living organisms amidst high-tech systems. | Risking his life to secure the facility's bio-containment bee habitat as plasma fire breaches the lab. | Breaks down in tears upon hearing ordinary wild bees and feeling untainted, un-irradiated rain in Paradise. |
+| **GamerFleet** | Evacuation coordinator; defuses escalating panic through warmth and improvisation. | Calms panicked research staff and keeps three arguing teammates moving toward the inner ring. | Smoothly deflects probing questions from Paradise villagers during the communal dinner to shield his friends. |
+| **Chapati** | Logistics and supply quartermaster; calculates resource flows under crisis. | Rations emergency survival packs and energy cells among terrified staff during the containment breach. | Assesses Paradise's trading hall economy, realizing the newcomers are a severe resource drain. |
+| **Khatarnak Ishan** | Hardline security architect; believes in sealed perimeters and fortified choke points. | Activates secondary blast shields, cutting off secondary routes to contain the expanding temporal radiation. | Remains hyper-vigilant in Paradise, inspecting walls and suspecting Paradise's open borders are fatal flaws. |
 
 ---
 
 ## 3. Five-Act Scene-by-Scene Breakdown
 
 ```
-[COLD OPEN] -------------------------------- (00:00 - 06:30) Haven's Fall & The Severed Cart
+[COLD OPEN] -------------------------------- (00:00 - 06:30) The Core Meltdown & The Violent Suction
 [ACT I] ------------------------------------ (06:30 - 15:00) The Sunken Arch & Sensory Wonder
 [ACT II] ----------------------------------- (15:00 - 24:00) First Contact: Guards, Golems & Alex
 [ACT III] ---------------------------------- (24:00 - 33:00) The Trading Hall & The Severed Coupling
@@ -55,34 +55,36 @@ Can an exhausted expedition earn a future in an unblemished world without bringi
 
 ---
 
-### COLD OPEN: Haven's Fall & The Severed Cart (00:00 – 06:30)
+### COLD OPEN: The Core Meltdown & The Violent Suction (00:00 – 06:30)
 
-#### Scene 1: The Last Bed in the Ash (00:00 – 01:45)
-- **Setting:** Interior of Haven Scar Barracks. Pitch dark, lit only by the dull amber glow of distant lava seepages. Air is thick with falling gray ash particles.
-- **Visual:** A macro-focus shot on an empty, numbered wool bed: `BED #09`. Scratched into the oak frame is a crude tally of days. A scruffy, one-eared calico cat sleeps curled on the foot of the blanket, undisturbed by deep subterranean tremors.
-- **Action:** Ash settles on the cat’s whiskers. A violent jolt shakes the stone floor; dust pours from the ceiling beams. The cat stirs, yawns, and jumps down, walking through cracked cobblestone corridors where empty armor stands and looted chests sit abandoned.
-- **Audio:** Low, heavy subterranean groaning. Pervasive industrial hum of failing redstone engines. No heroic orchestral music—only the dry, clicking sound of falling basalt ash.
+#### Scene 1: The Last Bed in Sector Four (00:00 – 01:45)
+- **Setting:** Residential sector of the Future Research Facility. Clean, utilitarian slate-and-iron architecture. Red emergency beacons pulse rhythmically against concrete walls.
+- **Visual:** A macro-focus shot on an empty, numbered wool bed: `BED #09`. Scratched into the oak frame is a personal roster tag. A scruffy, one-eared calico cat sleeps curled on the foot of the blanket, undisturbed by distant subterranean vibrations.
+- **Action:** Sub-bass klaxons begin blaring. The floor shudders as a deep resonant shockwave sweeps through the facility. The cat stirs, yawns, and leaps down, padding through corridors where automated warning holos flicker: `CONTAINMENT LEVEL 5 BREACH — EVACUATE TO SECONDARY RING`.
+- **Audio:** Heavy, mechanical klaxons. Low-frequency industrial drone of overloading magnetic coils. The distant crackle of high-voltage redstone plasma.
 - **Lore Plant:** *This exact bed frame, cat, and spatial orientation recur across the season.*
 
-#### Scene 2: The Minecart Run (01:45 – 04:15)
-- **Setting:** Haven Scar Deep Rail Line. A steep, descending tunnel flanked by weeping obsidian supports and flickering redstone torches.
-- **Action:** A high-speed minecart evacuation train roars down the tracks. Powered rails flash bright scarlet as carts pass over them. 
-  - **Techno** sits in the locomotive cart, eyes fixed on the rail junctions, clutching a diamond pickaxe and a redstone lever.
-  - **Ishan** and **Bixu** are wedged in cart two, bracing delicate crates containing lodestone housings and the expedition's field atlas. Bixu rapidly inspects track rivets with a spyglass.
-  - **Fleet**, **RawKnee**, and **Chapati** struggle to keep terrified pack mules and supply bags stable in carts three and four. RawKnee accidentally knocks loose a decorative carved crown block from a storage crate and wedges it under his foot to brace himself.
-  - **AndreoBee** cradles a silk-touched bee nest wrapped in damp canvas against his chest, murmuring reassurance to the muffled humming within.
-  - At the very rear (cart six), **Ajju** leans out, lantern swinging in one hand, reaching backward into the dark tunnel where distant shouting echoes.
-- **Audio:** Screeching metal wheels on iron rails, rhythmic clacking of detector plates, explosions vibrating through bedrock.
+#### Scene 2: The Core Chamber Breach (01:45 – 04:15)
+- **Setting:** Primary Reactor Hall. A colossal industrial chamber suspended over a subterranean chasm. At the center stands the **Future Time Machine**: an enormous multi-ring apparatus composed of crying obsidian containment braces, reinforced gold busbars, and glowing Allay-resonance chambers built from Aren's and Alex's surviving archival designs.
+- **Action:** The experiment has gone catastrophically wrong. Containment rings have buckled. Plasma arcs snap across the gantry, vaporizing instrument consoles.
+  - **Smarty** is glued to a cracked monitor, shouting over the din: *"The harmonic phase isn't stabilizing! It’s locked on forty-three! It’s drawing power from the bedrock itself!"*
+  - **Bixu** rapidly plugs a data-crystal into a melting console, downloading radiation decay rates and core fracture telemetry.
+  - **AndreoBee** wrenches open an environmental seal, securing a glass bio-containment cylinder containing a living bee colony against his chest.
+  - **RawKnee** and **Fleet** struggle with a jammed hydraulic blast door. RawKnee grabs an ancient, carved stone crown block from an archival display pedestal and jams it beneath the hydraulic piston as an improvised wedge, forcing the heavy iron door open.
+  - At the gantry edge, **Ajju** leans out over the abyss, reaching down to pull a stumbling junior technician onto the upper catwalk.
+- **Audio:** Shrieking automated warnings: *"CONTAINMENT INTEGRITY 12% — CATASTROPHIC EXPLOSION IMMINENT — EVACUATION ROUTE CLOSED."*
 
-#### Scene 3: The Severed Coupling (04:15 – 06:30)
-- **Setting:** The Abyssal Chasm. A subterranean void spanned by a fragile single-track trestle. At the far side stands the **Knot Gate**: an immense, monolithic frame composed of unlit crying obsidian, reinforced gold lattices, and glowing Allay-containment vials.
-- **Drama:** A seismic fault ruptures the tunnel roof directly behind the train. Boulders smash onto the rear rails. The rear cargo cart derails, dragging the entire train toward the lip of the chasm. Momentum plummets; powered rails begin popping loose under strain.
-- **The Choice:** Ajju screams over the wind, spotting two Haven engineers sprinting down the ties fifty blocks back, lanterns waving desperately: *"Hold the brakes! They’re right there! Just five seconds!"*
-- Techno checks the forward velocity gauge and the fracturing trestle ahead. If the train stops, the bridge collapses under all of them. Without blinking, Techno drops from his seat, lunges to the coupling between cart five and the derailed rear, and swings his pickaxe directly into the iron hinge pin.
-- **The Sever:** The pin shears. The derailed cart plummets into the dark abyss. Free of the drag, the remaining carts surge forward toward the portal platform.
-- Ajju watches in horror as the two running figures are cut off by a wall of falling stone. Ajju locks eyes with Techno. Techno’s jaw is tight, refusing to look back.
-- **The Gate Jump:** Ishan slams the master redstone contact into the gate frame. The Knot Gate ignites—not with standard violet Nether fire, but with an blinding, silent flash of cyan-white radiance. The train strikes the portal buffer.
-- Techno leaps forward into the vortex of light. The camera drops into the vertical abyss behind him.
+#### Scene 3: The Lockdown & The Temporal Vortex (04:15 – 06:30)
+- **Setting:** The Inner Airhead Vault. Directly in front of the collapsing reactor core.
+- **Drama:** The reactor's magnetic containment completely collapses. The core begins a runaway cascade—an imminent explosion that will obliterate the entire facility and the surrounding region with the force of ten nuclear detonations.
+- **The Choice:** The secondary blast doors are failing. Ajju spots two research assistants running across the lower catwalk fifty meters away, waving desperately: *"Hold the seal! Ajju, don't drop the blast door!"*
+- Techno checks the core detonation countdown: `00:08 SECONDS`. If the heavy blast doors remain open, the backdraft will vent into the public city sectors above. Without hesitation, Techno slams his palm onto the manual quarantine lever.
+- **The Lock:** The multi-ton reinforced iron blast doors slam shut with a deafening hydraulic thud, severing the catwalk. The running workers are cut off behind thick quartz glass. Ajju turns in fury, slamming his fist against the viewport: *"Techno! What did you do?!"*
+- Techno’s face is stone: *"Saved the surface. Brace for impact!"*
+- **The Vortex:** At zero seconds, the collapsing reactor does not detonate normally. The overloaded time-gate flares into existence—not with normal purple fire, but with a blinding, terrifying vortex of cyan-white radiance.
+- The portal creates an overwhelming gravitational and temporal vacuum. Air, debris, crates, and metal scaffolding are ripped from the floor and sucked toward the center.
+- The pulling force violently drags all nine across the room. One by one, they lose their footing and are sucked headfirst into the vortex.
+- A split-second after they cross the event horizon, the entire laboratory behind them detonates in a cataclysmic white explosion that disintegrates the facility.
 - **TITLE CARD: HEROBRINE SMP — THE KNOT**
 
 ---
@@ -91,32 +93,32 @@ Can an exhausted expedition earn a future in an unblemished world without bringi
 
 #### Scene 4: Underwater Rebirth (06:30 – 09:15)
 - **Setting:** Deep subterranean freshwater basin beneath a colossal natural stone archway. Crystal-clear azure water, kelp forests, and sunlight filtering from far above.
-- **Action:** The screen bursts from blinding portal white into silent, deep aquatic turquoise. Minecart wreckage, wooden crates, and nine gasping survivors tumble through water.
+- **Action:** The screen bursts from the blinding white of the explosion into silent, deep aquatic turquoise. Scorched metal crates, survival bags, and nine gasping survivors tumble through calm freshwater.
 - Techno kicks upward, breaking the surface first. One by one, the others surface, sputtering and coughing up water:
   - Ajju immediately scans the pool, counting heads: *"One, two... Smarty! Where’s Smarty?!"*
-  - Smarty surfaces, waterlogged atlas held high above his head, coughing violently: *"I have the charts! Keep the ink dry!"*
-  - AndreoBee surfaces, desperately inspecting his bee nest; a single tiny bee crawls onto the canvas, wings dry. Andreo smiles through tears.
-  - RawKnee floats on his back, clutching the carved stone crown fragment he salvaged, laughing with hysterical relief.
-- **Visual Transition:** The audio transitions from Haven’s industrial mechanical droning to complete, pristine organic silence: the rustle of wind through birch leaves, distant birdsong, and the soft lapping of freshwater against riverbank sand.
+  - Smarty surfaces, waterlogged atlas and field tablets held high above his head, coughing violently: *"I have the archives! Keep the water off the paper!"*
+  - AndreoBee surfaces, desperately inspecting his cylinder; the bees are buzzing inside, safe. Andreo smiles through tears.
+  - RawKnee floats on his back, still clutching the carved stone crown fragment he used as a door wedge, laughing with hysterical relief.
+- **Visual Transition:** The audio transitions from the facility’s deafening sirens and industrial alarms to complete, pristine organic silence: the rustle of wind through birch leaves, distant birdsong, and the soft lapping of freshwater against riverbank sand.
 
 #### Scene 5: The Breath of Paradise (09:15 – 12:30)
 - **Setting:** The riverbank beneath the Monumental Arch. Untouched oak forest and lush plains stretching to the horizon.
 - **Character Beats:**
-  - The survivors drag themselves onto vibrant green turf. AndreoBee buries his face directly into the wild grass, breathing in soil and clover, overwhelmed: *"It doesn't smell like sulfur. It just... smells like rain."*
-  - GamerFleet collapses onto his back, arms outstretched, staring at an open blue sky with white, pillowy clouds: *"There’s no ceiling. Look at the sky... there’s no bedrock ceiling."*
-  - Chapati immediately starts taking inventory of salvageable items from the wet crates: damp bread, iron ingots, torches, a handful of seeds.
+  - The survivors drag themselves onto vibrant green turf. AndreoBee buries his face directly into the wild grass, breathing in rich soil and clover, overwhelmed: *"It doesn't smell like sulfur. It doesn't smell like ozone. It just... smells like rain."*
+  - GamerFleet collapses onto his back, arms outstretched, staring at an open blue sky with white, pillowy clouds: *"There’s no ceiling. Look at the sky... there’s no smog, no ash."*
+  - Chapati immediately starts taking inventory of salvageable items from the wet crates: damp rations, iron tools, torches, emergency copper coils.
   - Bixu takes out a brass recovery compass from his pocket.
-- **Forensic Discovery:** Bixu watches the compass needle. Instead of locking onto a fixed point or Haven's spawn hub, the needle spins erratically in circles, clicks, and drifts aimlessly.
-- Bixu frowns, tapping the glass: *"Lodestone link is dead. The compass can't find our world."*
-- Smarty looks around at the mountain silhouettes in the distance: *"Or our world isn't here."*
+- **Forensic Discovery:** Bixu watches the compass needle. Instead of locking onto the facility's spawn beacon or home coordinates, the needle spins erratically in circles, clicks, and drifts aimlessly.
+- Bixu frowns, tapping the glass: *"Lodestone link is dead. The compass can't locate our facility."*
+- Smarty looks around at the mountain silhouettes in the distance: *"Or our facility doesn't exist yet."*
 
 #### Scene 6: Techno's Silence (12:30 – 15:00)
 - **Setting:** Edge of the riverbank, looking out over the valley.
-- Ajju walks up behind Techno, who is wringing out his cloak.
-- Ajju’s voice is low, cold, and stripped of adrenaline: *"They were fifty blocks away, Techno. They had lanterns. I saw their faces."*
-- Techno does not turn around: *"And if the rear cart dragged us down, nine more people would be dead. We had six seconds before the trestle snapped."*
-- Ajju: *"You didn't look back to check."*
-- Techno: *"Looking back doesn't add horse-power to the rails, Ajju. We made it across. That was my job."*
+- Ajju walks up behind Techno, who is wringing out his soot-stained jacket.
+- Ajju’s voice is low, cold, and stripped of adrenaline: *"They were ten meters from the blast door, Techno. I saw their faces through the quartz."*
+- Techno does not turn around: *"And if the door stayed open another three seconds, the containment backdraft would have incinerated the residential wing. We had five seconds before the core went critical."*
+- Ajju: *"You didn't look back to check if they made the threshold."*
+- Techno: *"Looking back doesn't change core physics, Ajju. We survived. That was my responsibility."*
 - Ajju stands in silence, pulling a small leather-bound notebook from his belt—his casualty ledger—and marks two silent lines across the page. The gap between them is established.
 
 ---
@@ -266,22 +268,22 @@ Can an exhausted expedition earn a future in an unblemished world without bringi
 These lines serve as foundational tonal anchors for screenplay scene construction:
 
 > **AJJU BHAI (Scene 3):**  
-> *"If we leave two people behind to save seven, we don't become seven survivors, Techno. We become seven people waiting for someone to cut our cart next."*
+> *"If we seal two people behind the blast door to save nine, we don't become nine survivors, Techno. We become nine people waiting for someone to drop the iron on us next."*
 
 > **TECHNO GAMERZ (Scene 6):**  
-> *"Looking back doesn't add horsepower to the rails, Ajju. A good leader doesn't keep everyone happy; he keeps everyone breathing."*
+> *"Looking back doesn't change core physics, Ajju. A good leader doesn't keep everyone happy; he keeps everyone breathing."*
 
 > **STEVE (Scene 12):**  
 > *"Dying is cancelled until further notice. I've got night watch anyway, and these roofs don't fix themselves."*
 
 > **YESSMARTYPIE (Scene 17):**  
-> *"Techno... the gate didn't take us across space. It took us across time. This isn't like our world. It IS our world."*
+> *"Techno... the gate didn't take us across space. It took us across time. This isn't like our world forty years ago. It IS our world."*
 
 ---
 
 ## 5. Minecraft Mechanics Registry (Episode 1)
 
-1. **Powered & Detector Rail Physics:** Momentum conservation, cart coupling mechanics, and redstone switch logic driving the cold open escape.
+1. **Reactor Containment & Temporal Vortex Physics:** Redstone-flux magnetic containment failure, temporal vacuum dynamics pulling matter through an uncalibrated gate, and catastrophic overload thresholds.
 2. **Knot Gate Physics:** Non-standard cyan-white ignition, requiring lodestone pairing, Allay resonant energy, and crying obsidian anchors.
 3. **Recovery Compass Spin:** Compasses spin erratically when separated from their native temporal event-state lodestone.
 4. **Spawn Bed Assignment:** The mechanical and emotional weight of claiming a bed; Steve’s sacrifice of his personal spawn point.
@@ -296,8 +298,8 @@ These lines serve as foundational tonal anchors for screenplay scene constructio
 
 | Clue Planted in Ep 1 | Immediate Appearance | Episode Revealed / Paid Off | Ultimate Canon Truth |
 |---|---|---|---|
-| **Bed #09 & One-Eared Cat** | Sleeping cat on empty bed in Haven ruin. | Episode 8 (Finale) | In Ep 8, the exact same cat sleeps on the exact same bed in Paradise 43 years earlier; causal closed loop. |
-| **RawKnee's Carved Block** | Stolen stone block used to brace minecart. | Episode 2 & Episode 7 | The block is the carved crown regulator of the Anchor mechanism; its removal triggers the Sunfall countdown. |
+| **Bed #09 & One-Eared Cat** | Sleeping cat on empty bed in Future Sector Four. | Episode 8 (Finale) | In Ep 8, the exact same cat sleeps on the exact same bed in Paradise 43 years earlier; causal closed loop. |
+| **RawKnee's Carved Block** | Stolen stone block used to brace hydraulic blast door. | Episode 2 & Episode 7 | The block is the carved crown regulator of the Anchor mechanism; its removal triggers the Sunfall countdown. |
 | **Inverted Stair Craft** | Steve's habit of placing upside-down stairs. | Episode 6 & Episode 8 | Bixu matches this masonry signature directly to Herobrine's emergency repairs at the Crown. |
 | **Rising Black Particles** | Floating residue from Steve's roof repair. | Episode 4 & Episode 8 | Black matter is the residual temporal drag emitted by the future Steve (Herobrine) manipulating local blocks. |
 | **43-Ring Oak Sapling** | Villager planting an oak sapling by the well. | Episode 1 & Episode 8 | Proves Paradise is the Overworld 43 years prior to Sunfall. |

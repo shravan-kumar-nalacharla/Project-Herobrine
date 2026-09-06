@@ -91,15 +91,15 @@ The emotional realization comes first: Steve cannot save Alex by denying her dec
 
 | Character | First behavior | Immediate understanding | Audience misunderstanding | Later plant |
 |---|---|---|---|---|
-| Techno Gamerz | Drives a minecart evacuation through collapsing Haven and cuts the rear coupling | decisive route-maker under pressure | assumes everyone behind him was already lost | he personally closed the gate on reachable survivors |
-| Ajju Bhai | Runs backward along the train distributing beds and pulls a child into the last cart | protector who counts individuals | seems unwilling to make hard calls | his casualty ledger makes every choice harder, not weaker |
-| GamerFleet | Calms a panicked horse while keeping three arguing teammates moving | trust and morale are practical skills | appears carefree | his route log becomes the witness map |
-| YesSmartyPie | Rejects a beautiful map because one shadow points the wrong way | precise skeptic | seems emotionally detached | he already suspects a temporal offset |
-| AndreoBee | saves the group's last bee nest while supplies burn | reads life as evidence | seems impractically sentimental | the bee's response to Paradise light helps prove environmental continuity |
-| Bixu | photographs block damage before helping open a jammed door | forensic, suspicious, methodical | seems cold | records Techno's gate timing and later Steve's craft signature |
-| RawKnee | steals a supposedly useless carved crown block to brace a broken rail | shameless improviser | seems responsible only for jokes | the fragment is an Anchor regulator |
-| Chapati | bargains food from a frightened survivor instead of taking it | exchange-builder | seems to treat crisis as commerce | understands Piglin barter before anyone else |
-| Khatarnak Ishan | seals a tunnel with two allies still outside, then opens a riskier defended path for them | security-minded strategist | seems cowardly | can build both the gate failsafe and its replacement |
+| Techno Gamerz | Locks the emergency bulkhead of the collapsing future temporal reactor to protect the outer sector | decisive commander under catastrophic pressure | assumes everyone behind the blast door was already vaporized | he personally triggered the lockdown on reachable colleagues |
+| Ajju Bhai | Runs across the vibrating gantry to distribute emergency kits and drag trapped workers toward safety | protector who counts every individual life | seems unwilling to make hard triage calls | his casualty ledger makes every choice harder, not weaker |
+| GamerFleet | Calms panicked research staff and keeps three arguing teammates moving toward the evacuation ring | trust and morale are practical survival skills | appears carefree | his evacuation log becomes the witness map |
+| YesSmartyPie | Analyzes the failing temporal core monitors and recognizes an uncontrollable 43-phase distortion | precise skeptic and data analyst | seems emotionally detached | he already suspects the machine was built on uncalibrated ancient science |
+| AndreoBee | Rescues the facility's last bio-containment bee habitat while consoles incinerate | reads living systems as primary evidence | seems impractically sentimental | the bee's response to Paradise light helps prove environmental continuity |
+| Bixu | Downloads forensic core logs and records reactor fracture patterns before the terminals detonate | forensic, suspicious, methodical | seems cold | records Techno's lockdown timestamp and later Steve's craft signature |
+| RawKnee | Grabs an ancient carved crown regulator block from the archive pedestal to brace a jammed hydraulic door | shameless, quick-thinking improviser | seems responsible only for jokes | the fragment is an authentic Anchor regulator |
+| Chapati | Rations emergency rations and energy cells among terrified staff during containment failure | exchange-builder and logistics organizer | seems to treat crisis as commerce | understands resource barter before anyone else |
+| Khatarnak Ishan | Seals the secondary reactor conduits with two guards still inside, choosing containment over rescue | hardline security-minded strategist | seems ruthless | can build both the gate failsafe and its replacement |
 | Steve | repairs a village roof during rain while teasing a child who keeps stealing his stairs | capable, warm, locally loved | seems to have no need for control | his inverted-stair repair signature |
 | Alex | redesigns a golem patrol after noticing it blocks farmers from the bell | engineer who centers ordinary people | seems merely more cautious than Steve | instinctively builds distributed safety systems |
 | Saira | settles a market dispute while quietly removing a forbidden atlas page | effective leader carrying secrets | seems a wise guardian | knows the Crown is an unfinished machine |
@@ -285,7 +285,7 @@ The trailer's soundtrack is story evidence, not generic accompaniment.
 
 ## Logline
 
-As Haven Scar collapses, Techno leads eight companions through an experimental portal into a green world called Paradise, where their first chance at safety depends on admitting whom they left behind.
+When a catastrophic containment failure in a future research facility triggers an imminent colossal explosion, Techno and eight colleagues are violently pulled through an unstable temporal portal into a green world called Paradise, where their first chance at safety depends on admitting whom they left behind.
 
 ## Emotional focus
 
@@ -297,15 +297,15 @@ Techno, Ajju, Steve; ensemble introduced through evacuation behavior.
 
 ## Opening image
 
-In the Ruined Present, a cat sleeps on a numbered bed whose owner will never return.
+In the future research sector's residential wing, a cat sleeps on a numbered bed whose owner will never return.
 
 ## Cold open
 
-A minecart train carries Haven's last portal components through falling ash. Techno cuts a damaged rear coupling to save the lead carts. Ajju sees survivors still running toward it. The gate opens over a vertical ruined city, inverting the trailer's falling figure: Techno deliberately jumps into the abyss of light.
+Inside the future research facility, the colossal engineered temporal machine built from Aren's and Alex's surviving archives breaches containment. Sirens shriek, energy fields crack, and a cataclysmic 10× explosion counts down. Techno manually triggers the emergency bulkhead lock to protect outer sectors, sealing reachable workers outside. The collapsing core ignites an uncontrollable temporal vortex with violent suction, dragging all nine through the event horizon fractions of a second before the facility detonates.
 
 ## Primary objective
 
-Reach the unknown destination, establish spawn bonds, and keep the expedition together until the gate can reopen.
+Survive the violent arrival, establish spawn bonds, and keep the displaced team together in an unknown, pristine era.
 
 ## A-story
 
@@ -321,8 +321,8 @@ YesSmartyPie quietly compares shadows and maps; RawKnee pockets a carved fragmen
 
 ## Major progression
 
-1. Haven evacuation introduces all nine through choices under pressure.
-2. The Knot Gate severs behind them; their recovery compasses spin.
+1. Future laboratory reactor meltdown introduces all nine through choices under catastrophic pressure.
+2. The violent temporal vortex severs behind them; their recovery compasses spin wildly.
 3. They emerge underwater beneath Paradise's monumental natural arch and swim toward daylight.
 4. AndreoBee notices bees, rain and ordinary grass with stunned joy; no ominous score undercuts it.
 5. Steve arrives on horseback expecting raiders and instead finds exhausted people arguing over beds.

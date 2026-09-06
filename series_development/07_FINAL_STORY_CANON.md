@@ -147,15 +147,15 @@ There are no Piglins, Blazes or Wither Skeletons.
 
 Steve initially believes the portal sent him to an unrelated world. His successful crossing into Overworld -43 proves the harsher answer: Paradise occupies the Nether side of the dimensional pair, but both sides are forty-three years earlier than the home he lost.
 
-The nine grow up in separate surviving civilizations. Sunfall shapes all of them, but none possesses the complete story. Forty-three years later, old border instruments briefly detect a path into the Far Lands. The nine are selected for the first joint expedition because their abilities do not overlap: Techno Gamerz, Total Gaming/Ajju Bhai, GamerFleet, YesSmartyPie, AndreoBee, I.M. Bixu, The RawKnee, Chapati and Khatarnak Ishan.
+The nine grow up in separate surviving civilizations of the post-Sunfall world. Sunfall shapes all of them, but none possesses the complete story. Decades later, a high-level scientific initiative—working from the preserved fragments of Aren's archives and Alex's ancient notes—constructs a colossal engineered temporal machine. The nine are physically present at the facility during its critical test phase, brought together as technical specialists, defensive engineers, and emergency monitors: Techno Gamerz, Total Gaming/Ajju Bhai, GamerFleet, YesSmartyPie, AndreoBee, I.M. Bixu, The RawKnee, Chapati and Khatarnak Ishan.
 
-The Far Lands remain uninhabited. The expedition crosses their outer wall through a newly exposed mineshaft and discovers an ancient stronghold crushed inside it. There they find Aren's atlas. The year +43 is when the route in that atlas becomes usable; it is not when the Far Lands are created.
+They do not casually discover an ancient gate, nor do they willingly volunteer to time-travel on a curious expedition. Instead, during the trial, the massive machine reaches the conditions required to ignite the temporal corridor, but its containment field shatters under the colossal energy buildup. The facility enters critical meltdown, facing an imminent cataclysmic explosion (a disaster on the scale of ten times a nuclear detonation, visualized through Minecraft-native energy overload and shattering reality).
 
-The atlas describes routes they have never travelled and depicts nine adult witnesses around an unfamiliar mountain. YesSmartyPie proves that its lodestone signature can open a hybrid Gate. The group believes the route uses the Nether to reach evidence buried beyond the Far Lands wall. They enter to learn what caused the disaster they barely remember as children.
+As the laboratory tears apart, the unstable temporal portal violently flares alive, creating an overwhelming gravitational and temporal vortex. Trapped within the containment chamber, the nine are violently pulled through the event horizon by the suction of the collapsing field immediately before the facility detonates.
 
-Techno secretly carries four blocks of soul sand and three Wither Skeleton skulls taken from a future Nether Fortress. He considers them a last resort and tells nobody.
+Techno secretly carries four blocks of soul sand and three Wither Skeleton skulls salvaged from a high-containment bunker, preserved as an extreme countermeasure. 
 
-The nine enter the Gate in Overworld +43 and emerge beside Steve in Paradise -43. Their route crosses two forty-three-year phase-bands and converges upon the same event-address.
+Dragged through the temporal vortex across two forty-three-year phase-bands, the nine are hurled into Paradise Year -43, emerging in water beneath the Monumental Arch just as young Steve arrives in the valley.
 
 The trailer's claim that Paradise resembles the Overworld of forty-three years earlier becomes an in-world misunderstanding. Paradise resembles surviving paintings and childhood stories of the green central Overworld before Sunfall, but it is actually the Nether forty-three years before its final formation.
 
@@ -330,21 +330,25 @@ She remembers modern Nether Fortresses and tries deliberately not to reproduce t
 
 She builds Continuance Bastions to preserve life during the catastrophe she knows must eventually occur. Those Bastions later create the Piglins she remembers from the modern Nether. Her attempt to protect Paradise helps give the Nether its people.
 
-Aren grows up asking where he came from. Recovery compasses point toward his Year 0 birthplace but cannot express the missing time-coordinate. He becomes the First Cartographer and learns to map complete event-addresses. His atlas incorporates the nine travellers' future route as described by Alex. The nine later discover that atlas and follow the route that helped inspire it.
+Alex raises baby Aren as his devoted guardian and mother figure, but she is not his biological mother and does not know enough to tell him who his true parents were. Aren grows up in the ancient world with a deep, haunting question that defines his existence: *"Who were my real parents?"*
 
-Alex's generation also witnesses the human cost of treating causal lives as errors.
+Alex spends decades researching portals, dimensions, time mechanics, lodestones, and the recurring number 43, keeping exhaustive written notes, diagrams, and records of failed experiments in an effort to find a way back home. Young Aren watches these experiments with growing fascination and repeatedly attempts to enter the apparatus, but Alex fiercely protects him, knowing the catastrophic dangers of uncalibrated temporal crossings. Despite a lifetime of relentless work, Alex never solves the return journey. She eventually dies in the Ancient Age, leaving Aren devastated, having lost the only person who connected him to his lost world.
 
-Mira is born in -1786. At nineteen, a prototype throws her forty-three years backward to -1810. Adult Mira gives birth to Asha in -1809. Asha grows up and gives birth to Mira in -1786. Mira is Asha's mother, and Asha is Mira's mother. Each woman has an ordinary forward-moving personal life; only their genealogical relation is circular.
+Aren inherits Alex's complete archives: her notebooks, coordinate sketches, dimensional calculations, and unfinished portal frames. Driven by grief and an escalating obsession to discover where he belongs, Aren spends years rebuilding her apparatus. Experiment after experiment fails. The repeated dead ends push Aren toward emotional instability.
 
-Their existence teaches Alex that an originless causal structure can contain people who are not illusions. Destroying the Knot retroactively would not correct an equation. It would delete lives.
+Crucially, **passing through abnormal temporal portals leaves a dormant resonance inside travellers**—the seed for abilities that manifest under specific conditions. When Aren crossed as an infant during Sunfall, temporal energy remained dormant within his physiology. This power is uniquely unlocked by **extreme anger**.
 
-Alex lives sixty-three years after arriving in the Ancient Age. She raises Aren, makes mistakes, teaches builders, loses friends and becomes known as the Carrier. She leaves messages for Steve within the structures of Paradise.
+After yet another portal test fails, years of unresolved grief and frustration erupt into incandescent rage. Unbeknownst to Aren, his fury activates the dormant temporal energy within him. Overwhelmed, Aren sprints blindly toward the dead, unlit portal frame with his eyes closed. In a fraction of a second, his anger violently ignites the event horizon at the exact moment his body strikes it. Aren plunges through, and the portal collapses behind him.
 
-Her final journal says:
+Aren awakens in Overworld Year 0, not into a waiting family, but into the catastrophic aftermath of Sunfall: a wasteland of choking ash, melted rock, and the titanic, impossible walls of the freshly created Far Lands. Recognizing the world Alex described, Aren searches the ruins for signs of his biological family. Finding only total devastation, Aren reaches a heart-wrenching conclusion: *"My family died here."*
+
+The revelation shatters his sanity. Unable to remain in the tomb of his ancestors, Aren leaves the Far Lands and wanders surviving Overworld regions alone for decades. Clad in traveller's robes, carrying Alex's worn notes, maps, and compasses, his tragic wandering forms the historical root of the Wandering Cartographer mythology. As his mind deteriorates, his speech fragments into repetitive chants of the number **43**, interspersed with broken portal formulas, coordinate equations, and dimensional physics. To onlookers, he sounds mad; to later science, his words contain genuine physical laws.
+
+Eventually, an encounter with defensive authorities turns violent. Aren is captured and imprisoned. Official scribes and prison wardens record his strange behavior, his drawings, and his repeated utterances. These records, along with Alex's recovered notebooks, are preserved across generations. Centuries later, an Aren-family descendant scientist studies these archives, realizes Aren was speaking real physical science, and uses that legacy to design the future civilization's massive engineered temporal machine.
+
+Alex lives an honorable life in the Ancient Age before her passing, leaving messages for Steve within the deep structures of Paradise. Her final journal says:
 
 > "You will want to come back for me. For a long time, I wanted you to. Then I understood something. You remember the five minutes in which you lost me. I remember the sixty-three years I lived afterward. Do not erase my life because you cannot forgive yourself for missing five minutes of it."
-
-Alex dies naturally in the Ancient Age. Her life is not reset when the Knot closes.
 
 At the Far Lands expedition camp in +43, the returned nine compare Alex's journal, Aren's atlas, the rescued Allays and the external meteor shard. YesSmartyPie reaches the decisive conclusion: the Knot never repeated. It is a finite closed causal structure. Once the last known traveller completes the last crossing, nothing requires another journey backward.
 
