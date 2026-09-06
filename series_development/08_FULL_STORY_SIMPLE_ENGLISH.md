@@ -225,7 +225,7 @@ Moments later, the violent portal from the future laboratory failure dumps the n
 - Chapati
 - Khatarnak Ishan
 
-They come from different surviving regions of the Overworld. They enter the Far Lands through a mineshaft exposed in its outer wall and find Aren's atlas inside a crushed ancient stronghold. They follow its route because they want to discover what caused Sunfall and where the people at its centre disappeared.
+All nine came from the future research facility described in Section 5. They have no control over their landing. Their recovery compasses spin wildly and cannot locate their origin because the lodestone they were paired to no longer exists in this era.
 
 Techno secretly carries four soul-sand blocks and three Wither Skeleton skulls. He believes the Wither may be their final weapon if everything else fails.
 

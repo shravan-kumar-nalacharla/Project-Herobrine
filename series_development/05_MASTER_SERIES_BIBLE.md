@@ -1,10 +1,19 @@
 # HEROBRINE SMP: THE KNOT
 
-## 05 — Master Series Bible
+## 05 — Master Series Bible [SUPERSEDED]
 
-**Status:** Definitive story-world canon for series development  
-**Authority:** This document synthesizes the source `.txt`, the original series-bible `.docx`, the trailer analysis, and Phases 1–2.9. Where they conflict, the architecture below is canon.  
-**Scope:** Universe, characters, mysteries, and three-season direction. This is not an episode outline or screenplay.
+> [!WARNING]
+> **CANON STATUS: SUPERSEDED AND DEPRECATED**
+> This document is retained solely for historical development reference. 
+> The **sole definitive canon authority** for the series is **`07_FINAL_STORY_CANON.md`** (supported by `08_FULL_STORY_SIMPLE_ENGLISH.md`).
+> 
+> **Key obsolete concepts in this document that must NOT be used:**
+> 1. **Paradise is NOT the past Overworld:** Paradise is the ancient past of the **Nether dimension** (-43), before Cinderfall.
+> 2. **Alex is NOT in Paradise with Steve:** Sunfall sends Steve to Paradise -43 alone, while Alex and baby Aren are sent to Ancient Overworld -1849. Steve and Alex are separated.
+> 3. **The Nine do NOT casually find a portal on an expedition:** They are violently pulled through an unstable temporal portal during a catastrophic containment breach in a future research facility.
+> 4. **No Piglins exist in Year -43:** Piglins are born from Continuance Bastions only after the meteor strikes Crown Mountain.
+> 
+> **Refer to `07_FINAL_STORY_CANON.md` for all active lore.**
 
 ---
 
