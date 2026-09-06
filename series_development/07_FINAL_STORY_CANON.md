@@ -45,6 +45,21 @@ Alex and Aren are thrown back **1,849 years** because they are caught in both la
 
 This is a reproducible addressing failure, not destiny choosing a dramatically convenient year.
 
+### Aren's Temporal Ladder
+
+Aren's personal journey does not follow the four essential dates above. His anger-activated power snaps him forward along a fixed resonance ladder derived from the same 43-phase frequency baked into the Gate itself. Each node is exactly **43 years** forward from the last:
+
+| World Year | Aren's personal event |
+|---:|---|
+| **-1849** | Arrives with Alex as an infant |
+| **Ancient era** | Raised by Alex; inherits her archives after her death; marries in the Ancient Age (first family) |
+| **-215** | First anger-powered jump (43 × 5). Stranded; settles again; marries and has a son (second family). |
+| **-172** | Second jump. Returns to find his son has aged 43 years. Devastating confrontation. Learns he is a grandfather. |
+| **-129** | Third jump. Son dying or dead. Aren psychologically crumbling; begins the Wandering Cartographer years. |
+| **-86** | Arrested. Recorded as **Prisoner 43**. His own grandson—not knowing who he is—visits the cell and copies his equations, founding the scientist bloodline. |
+| **-43** | Fourth jump. World now recognizably close to the civilization Alex described. |
+| **0** | Fifth jump or natural forward movement. Arrives in Sunfall's ash-covered ruin. Complete mental collapse. |
+
 ---
 
 ## 3. The Laws That Make the Story Possible
@@ -350,19 +365,146 @@ Alex raises baby Aren as his devoted guardian and mother figure, but she is not 
 
 Alex spends decades researching portals, dimensions, time mechanics, lodestones, and the recurring number 43, keeping exhaustive written notes, diagrams, and records of failed experiments in an effort to find a way back home. Young Aren watches these experiments with growing fascination and repeatedly attempts to enter the apparatus, but Alex fiercely protects him, knowing the catastrophic dangers of uncalibrated temporal crossings. Despite a lifetime of relentless work, Alex never solves the return journey. She eventually dies in the Ancient Age, leaving Aren devastated, having lost the only person who connected him to his lost world.
 
-Aren inherits Alex's complete archives: her notebooks, coordinate sketches, dimensional calculations, and unfinished portal frames. As Aren reaches adulthood in the ancient civilization, he establishes a life of his own: he marries and has a child. Yet despite having built a real, loving family, he remains haunted by the unresolved void of his origins. Driven by grief over Alex and an escalating obsession to discover where he came from, Aren spends years secretly rebuilding her apparatus in his workshop. Experiment after experiment fails. The repeated dead ends push Aren toward emotional instability.
+Aren inherits Alex's complete archives: her notebooks, coordinate sketches, dimensional calculations, and unfinished portal frames. As Aren reaches adulthood in the ancient civilization, he establishes a life of his own: he marries and has a child in the Ancient Age. Yet despite having built a real, loving family, he remains haunted by the unresolved void of his origins. Driven by grief over Alex and an escalating obsession to discover where he came from, Aren spends years secretly rebuilding her apparatus in his workshop. Experiment after experiment fails. The repeated dead ends push Aren toward emotional instability.
 
-Crucially, **passing through abnormal temporal portals leaves a dormant resonance inside travellers**—the seed for abilities that manifest under specific conditions. When Aren crossed as an infant during Sunfall, temporal energy remained dormant within his physiology. This power is uniquely unlocked by **extreme anger**.
+Crucially, **passing through abnormal temporal portals leaves a dormant resonance inside travellers**—the seed for abilities that manifest under specific conditions. When Aren crossed as an infant during Sunfall, temporal energy remained dormant within his physiology. This power is uniquely unlocked by **extreme anger**. Equally crucial: the resonance imprinted in Aren during that infant crossing runs at the same **43-phase frequency** that defines the Gate itself. This means his jumps do not freely select destinations—they snap to the nearest stable temporal node on that same resonance ladder, always in increments of exactly 43 years. Aren cannot control this. He does not understand it until it has already destroyed everything he loves.
+
+**The First Jump — Year -215 (43 × 5)**
 
 After yet another portal test fails, years of unresolved grief and frustration erupt into incandescent rage. Unbeknownst to Aren, his fury activates the dormant temporal energy within him. Overwhelmed, Aren sprints blindly toward the dead, unlit portal frame with his eyes closed. In a fraction of a second, his anger violently ignites the event horizon at the exact moment his body strikes it. Aren plunges through, and the portal collapses behind him.
 
-In doing so, Aren's tragedy deepens to its most painful extreme: **in his desperate, blind obsession to find the parents who were taken from him, he accidentally abandons the family and child he actually created.** He never sees his ancient family again.
+He expected home. Instead, he opens his eyes to an Overworld he does not recognize — far more advanced than the Ancient Age, but still 215 years before Sunfall. His ancient family is gone, lost centuries in the past. He is utterly alone in an unfamiliar era.
 
-Aren awakens in Overworld Year 0, not into a waiting family, but into the catastrophic aftermath of Sunfall: a wasteland of choking ash, melted rock, and the titanic, impossible walls of the freshly created Far Lands. Recognizing the world Alex described, Aren searches the ruins for signs of his biological family. Finding only total devastation, Aren reaches a heart-wrenching conclusion: *"My family died here."*
+Aren tries immediately to reopen the portal. Nothing. His anger has burned out. His power will not fire without extreme rage, and adrenaline alone is not enough. He is stranded.
 
-The revelation shatters his sanity. Having abandoned his family in the past only to find his ancestral home a smoking graveyard, Aren is completely unmoored. Unable to remain in the tomb of his ancestors, Aren leaves the Far Lands and wanders surviving Overworld regions alone for decades. Clad in traveller's robes, carrying Alex's worn notes, maps, and compasses, his tragic wandering forms the historical root of the Wandering Cartographer mythology. As his mind deteriorates, his speech fragments into repetitive chants of the number **43**, interspersed with broken portal formulas, coordinate equations, and dimensional physics. To onlookers, he sounds mad; to later science, his words contain genuine physical laws.
+For once in his life, the obsession has nowhere to run. The world is closer to what Alex described — recognizable civilization, redstone systems, functional portal routes — yet still completely foreign to him. Slowly, painfully, Aren accepts it. *This is where I live now.*
 
-Eventually, an encounter with defensive authorities turns violent. Aren is captured and imprisoned. Official scribes and prison wardens record his strange behavior, his drawings, and his repeated utterances. These records, along with copies of Alex's recovered notebooks, are preserved across generations. Meanwhile, across nearly 1,900 years of Overworld history, the bloodline of the child Aren left behind in the Ancient Age survives and branches outward. Centuries later, a brilliant scientist descended directly from Aren's family line uncovers both the ancestral family lore and the prison transcripts. Realizing Aren was speaking real physical science, this descendant uses that legacy to design the future civilization's massive engineered temporal machine.
+For perhaps a decade, Aren stops chasing the past. He settles in a small city. Finds work as a cartographer and engineer. Meets someone. Falls in love. Marries. And eventually, Aren has a son — his first biological child, in the first family that is entirely his own. For once, somebody calls him father instead of asking where he comes from.
+
+He tells his son stories about Alex — about *Grandmother Alex* and another world, about strange portals and impossible numbers. But he does not tell him everything. The stories sound almost mythical even to Aren himself.
+
+**The Second Jump — Year -172**
+
+But the old notebooks are still in the house. Late at night, Aren returns to them. One question never disappeared: *If I travelled once, why can't I travel again?* And a worse one beneath it: *My real parents may still be ahead of me.*
+
+Aren begins experimenting secretly again. His wife realizes something is wrong. His son realizes his father is becoming obsessed. The parallel is precise: Alex once told Aren not to enter the portal. Now Aren's own family is telling him the same thing.
+
+The break comes in an argument. Perhaps his son discovers the hidden laboratory and confronts him:
+
+> **SON:** "Why do you care so much about people you've never even met?"
+>
+> **AREN:** "They're my family!"
+>
+> **SON:** "So what are *we*?"
+
+That line breaks something inside Aren. And in that broken, raging moment, the temporal energy ignites again. The portal flares. Aren is pulled through before he can stop himself.
+
+For Aren, seconds pass. For the world, 43 years pass.
+
+Aren arrives at Year -172 and walks back to the city he knows. His house is old. His workshop is abandoned. His name is a half-remembered story.
+
+Then an old man sees him from across a market square. The old man freezes.
+
+Aren slowly recognizes the face beneath the age — and the recognition is devastating in both directions.
+
+> **AREN:** "...son?"
+
+The old man's eyes fill with something Aren has never seen aimed at him before: not love, not wonder, but the exhausted, calcified anger of someone who waited forty-three years for a person who never came home.
+
+> **SON:** "You didn't mean to leave."
+>
+> **AREN:** "I didn't—"
+>
+> **SON:** "You didn't mean to leave Alex either. You spent my whole childhood telling me how your family was taken from you. Then you did the same thing to me."
+
+This is not a reunion. It is a reckoning. Aren's son has built a complete life in his absence — married, had children, possibly grandchildren — and has long since stopped grieving a father who simply walked into a room and vanished. During Aren's absence his son told his own children their grandfather was gone. Nobody knows the truth.
+
+Aren discovers he is now a grandfather. Biologically he appears only marginally older than the day he disappeared. He meets no warmth — only the polite, guarded curiosity of grandchildren who grew up hearing a myth about a strange man named Aren.
+
+His son wants nothing more to do with him. Aren leaves before another emotional episode can displace him again, carrying the unbearable knowledge that his son's entire adulthood happened without him.
+
+**The Third Jump — Year -129**
+
+Another rage episode. The third jump snaps Aren to Year -129. His son is dying or already dead. Some family members have passed. His grandson is now an adult. Aren finds his son's grave.
+
+The inscription reads something like:
+
+> *Beloved father. Beloved husband. Son of Aren, the Lost Cartographer.*
+
+Aren places one hand on the stone. His son spent nearly his entire life waiting for a father who kept disappearing. Now the world has organized that absence into a single carved sentence.
+
+This is the moment Aren's psychological deterioration becomes irreversible. He begins calling himself the Wandering Cartographer — not as a title, but because it is the only honest description of what he is. He carries Alex's notebooks. He walks from city to city. He repeats fragments of portal science under his breath: *43... not this one... one more... forty-three... five roads... Alex said don't go...*
+
+To passersby he sounds mad. To any trained physicist, his murmured words contain genuine temporal mathematics centuries ahead of the era's understanding.
+
+At some point in the -129 era, Aren makes contact with his adult grandson — briefly, guardedly. He does not announce himself. He watches from a distance. He cannot stay.
+
+**Year -86 — Arrest and the Prison**
+
+Aren has been wandering for decades when he gets into a violent confrontation. Someone attempts to take Alex's notebook — the one physical object connecting him to anyone he has ever loved. He attacks. His temporal power briefly activates under the emotional spike. People witness impossible phenomena: the air distorts, blocks flicker, gravity shudders for a fraction of a second.
+
+Authorities arrest him. When asked his name, he answers: *"Aren."* They do not connect him to the ancient family legend bearing that name. To the prison registry, he is **PRISONER 43** — the number he kept writing on every available surface. To the guards, he is *The Wandering Cartographer*.
+
+His cell walls fill with equations, diagrams, portal schematics, coordinate notations in Nether-Overworld hybrid notation, and the symbol Alex used for dimensional phase. Nobody in the facility understands any of it.
+
+**The Grandson Scene**
+
+Aren's grandson has grown into a man with interests in mathematics, cartography, and portal engineering — all inherited without being explicitly taught, the way the shape of a face travels through generations. He hears that a strange prisoner is filling his cell walls with impossible physics. He visits, not out of family feeling, but out of scientific curiosity.
+
+The grandson enters. Messy, hollow-eyed Aren sits against the wall. Behind him, every surface is covered:
+
+- The number 43, dozens of times
+- Portal frame diagrams with End-address notation
+- Coordinate equations in an ancient notation the grandson has seen only once before — in a faded family notebook
+- Alex's symbol: a compass rose with a second needle pointing backward
+
+The grandson recognizes the symbol. His father used to draw it from memory without knowing what it meant.
+
+> **GRANDSON:** "Where did you learn this?"
+
+Aren looks at him for a long moment. Something in the face is familiar — he has studied this family across three generations, watched features pass from son to grandchild.
+
+> **AREN:** "What's your father's name?"
+
+The grandson answers. Aren freezes. He recognizes the name as his own son's — now long dead.
+
+> **AREN:** "Did he hate me?"
+>
+> **GRANDSON:** "Who are you?"
+>
+> **AREN:** *(after a long silence, possibly crying or laughing in a way that unsettles the grandson)* "He had your eyes."
+
+The grandson has no idea what this means. Guards approach. The conversation is cut short.
+
+Aren does not announce himself. He is ashamed. He cannot explain coherently. He does not want to destroy the grandson's sense of his own history. So instead, before the guard reaches them, Aren presses a torn page into the grandson's hand — a single formula, a single diagram, and one line:
+
+> *"Forty-three isn't a number. It's a distance."*
+
+The grandson leaves confused. He copies every equation he can remember from the cell walls. He spends the rest of his life trying to understand them. His children continue. Their children continue. The family becomes known across generations for portal engineering, temporal mathematics, Ender physics, and lodestone science — all tracing back to a mysterious prisoner their ancestor once visited.
+
+For centuries, the family does not know who Prisoner 43 was. Much later, someone compares the ancient family notebook — the one containing Alex's symbol and Aren's handwriting — with the prison wall etchings. The handwriting is identical. The same strange formation of the numeral 4. The same diagonal stroke on dimensional notation. The same errors.
+
+Prisoner 43 was Aren. Their entire scientific tradition began because their own ancestor unknowingly taught his grandson.
+
+**The Final Jumps — Years -43 and 0**
+
+Another rage episode in prison or during an escape attempt fires the fourth jump. Aren lands at Year -43. The world is now recognizably close to the civilization Alex described — Steve and Alex's era is building around him. He is getting closer to the year he wanted. He can feel it.
+
+One final displacement carries him to Year 0.
+
+Aren opens his eyes.
+
+The Sun's angle is wrong. The air smells of ash. The horizon is dominated by the titanic, impossible walls of the newly made Far Lands. A dead city is buried somewhere beneath the rubble.
+
+Aren has crossed centuries. He has abandoned a wife in the Ancient Age. He has lost his son to forty-three years of silence. He has met a grandson who did not know him. He has spent decades wandering and years imprisoned.
+
+And he has finally reached the year he wanted from the beginning.
+
+There is nothing waiting for him.
+
+Finding only ash and devastation, Aren reaches a heart-wrenching conclusion: *"My biological family died here."* The revelation, arriving after so much already paid in loss, shatters whatever remained of his coherent mind. He is completely unmoored. He leaves the Far Lands and wanders the surviving Overworld regions, a broken man carrying worn notebooks and repeating the same broken science to anyone who will listen.
+
+When he repeats the number 43, he may not be citing a scientific constant anymore. He may be counting off the years of his son's life that he never witnessed.
 
 Alex lives an honorable life in the Ancient Age before her passing, leaving messages for Steve within the deep structures of Paradise. Her final journal says:
 
@@ -452,6 +594,7 @@ Home is the world they stopped trying to erase.
 | Future Steve gives Saira the Silence design | The Silence creates the First Blaze and the battle pulse that causes Sunfall | Sunfall brings the meteor and Cinder Dust; living through the resulting Cinderfall transforms young Steve into the Future Steve who delivers the design |
 | Herobrine saves Alex at Sunfall | Alex builds the ancient Anchor tradition | That tradition produces the Gate and field through which Herobrine saves her |
 | Asha gives birth to Mira | Adult Mira travels back and gives birth to Asha | Their genealogical line has no external first mother, though both lives have normal personal beginnings and endings |
+| The future research facility is built and its machine pulls the nine into Paradise | Aren's grandson copies equations from Prisoner 43 in Year -86 and founds the scientist bloodline | Generations of descendants refine Aren's prison physics until one builds the temporal machine; that machine's explosion delivers the nine to Paradise -43, completing the loop that began with Aren unknowingly teaching his own grandchild |
 
 No row happens repeatedly. Each is one closed chain viewed in causal rather than calendar order.
 
@@ -503,6 +646,12 @@ Mechanical day-counting advances while the Sunfall field prevents the astronomic
 
 **Why are the Far Lands still empty forty-three years after Sunfall?**  
 The closer Sun kills almost everything in the centre, boils its water and burns its vegetation. Underground steam explosions and Ender gravity erupt the fractured crust into enormous porous walls; falling sections then bury the old cities. The region remains dry, unstable and almost impossible to farm or cross, so nobody establishes a settlement inside it. The surviving civilizations are on distant parts of the Overworld and do not know the true cause because the central witnesses and records were lost. The nine were alive during Sunfall but were children no older than nine in those distant regions.
+
+**Why does Aren always land at specific years rather than choosing a destination?**  
+Aren's dormant resonance was imprinted during his infant crossing at Sunfall, when the Gate ran at the 43-phase frequency. That frequency defines the same stable temporal nodes the Gate itself uses. When rage activates Aren's power, the resonance snaps to the nearest available node on that fixed ladder: -215, -172, -129, -86, -43, 0. He cannot dial a preferred year any more than a note block can produce a sound not on its scale. This is why Aren never reaches Year 0 on his first attempt, and why every forced jump advances him by exactly 43 years regardless of his intent.
+
+**How can the descendant scientist family build the time machine if the machine's existence depends on them building it?**  
+The bootstrap is closed, not contradictory. Aren's prison equations are genuinely derived from his own experiences of the 43-phase resonance. They are real physics, not recursive nonsense. Each generation of the family adds its own independent discoveries. The machine the final generation builds is not a copy of Aren's jail-wall sketches; it is a new engineering achievement informed by Aren's clues and centuries of accumulated science. The loop has no external first cause, but every component within it has a legitimate internal cause.
 
 ---
 

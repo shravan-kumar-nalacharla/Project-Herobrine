@@ -106,7 +106,7 @@ The emotional realization comes first: Steve cannot save Alex by denying her dec
 | Varka | shares scarce crimson fungus with a Piglin child before ordering troops toward a portal | commander protecting a society | initially framed as warlord | invasion routes are civilian evacuation routes |
 | Khar | walks through soul fire that makes ordinary Piglins recoil | duty without ordinary limits | appears to be Varka's loyal guard | he wants a stronger Sunfall than history requires |
 | Herobrine | not seen; black particles rise from a repaired block after Steve leaves | something impossible observed Steve | audience assumes a stalking demon | the repair is Steve's own method |
-| Aren | crawls away from the nursery toward the village bell during a drill | curious and vulnerable | appears to be one child among many | a recovery compass cannot settle near him |
+| Aren | crawls away from the nursery toward the village bell during a drill | curious and vulnerable | appears to be one child among many | a recovery compass cannot settle near him; his body carries the same 43-phase resonance that defines the Gate, planting the rule governing every jump he will make across centuries |
 
 ---
 
